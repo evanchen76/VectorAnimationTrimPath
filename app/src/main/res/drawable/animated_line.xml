@@ -3,6 +3,6 @@
     android:drawable="@drawable/line">
     <target
         android:name="line"
-        android:animation="@animator/anim_trim_path_end_0_to_1" />
+        android:animation="@animator/anim_trim_path_start_0_to_1" />
 </animated-vector>
 

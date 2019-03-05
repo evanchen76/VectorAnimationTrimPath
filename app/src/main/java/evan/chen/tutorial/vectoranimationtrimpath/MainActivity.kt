@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         start.setOnClickListener {
             val drawable = anim_image.drawable
             (drawable as Animatable).start()
+
+
         }
     }
 }
